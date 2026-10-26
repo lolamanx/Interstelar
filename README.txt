@@ -5,4 +5,4 @@ Integrantes: Lolamanx y Kamisama-all
 
 Docs: https://drive.google.com/drive/folders/1gRBBLAtAUuky6Uscll4nvyQXyz1DQ6AW?usp=sharing
 
-Prototipo: https://github.io/Interstellar/
+Prototipo: https://github.com/lolamanx/Interstelar
